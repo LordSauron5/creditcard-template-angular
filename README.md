@@ -1,6 +1,7 @@
-# Creditcard
+# Creditcard Template (Angular)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
+The creditcard template is a simple exercise done in angular to manipulate the DOM and display your details directly on the card.
 
 ## Development server
 
